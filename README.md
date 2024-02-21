@@ -1,2 +1,2 @@
 # BookServices
-demo
+demo-capten
